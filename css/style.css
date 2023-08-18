@@ -1,0 +1,34 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    background: rgb(255, 255, 255);
+}
+
+header, footer{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background-image: linear-gradient(to right, #ffffff, #9e9e9e);
+    border-radius: 3px;
+    padding:15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+img{
+    border-radius: 150px;
+}
+a{
+    color: #fff;
+}
