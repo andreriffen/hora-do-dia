@@ -32,6 +32,8 @@ Este projeto é apenas um exemplo didático e está hospedado no *Github Pages* 
 
 Fique à vontade para explorar o código e entender como os diferentes elementos foram implementados. Se tiver alguma pergunta ou sugestão, não hesite em entrar em contato.
 
+- 🙋‍♂️ Se você é um recrutador e está analisando, quero que note o meu cuidado ao escrever este documento! Veja as diferentes técnicas de desenvolvimento, diagramação e revisão.
+
 ### ☕ Autor
 
 - 2021 | 2023 ©️ **Andre Riffen** - [Perfil GitHub](https://github.com/andreriffen)
