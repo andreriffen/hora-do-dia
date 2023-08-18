@@ -2,7 +2,7 @@
 
 - 🌑🌒🌓🌔🌕🌖🌗🌘🌚
 
-![Preview do Projeto](https://github.com/andreriffen/hora-do-dia/blob/713ba9e2c9a89505346721c136a956b7c5639228/img/preview.jpg)
+![https://andreriffen.github.io/hora-do-dia/](https://github.com/andreriffen/hora-do-dia/blob/713ba9e2c9a89505346721c136a956b7c5639228/img/preview.jpg)
 
 [Demonstração no GitHub Pages](https://andreriffen.github.io/hora-do-dia/).
 
