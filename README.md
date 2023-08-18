@@ -20,7 +20,7 @@ Quando a página é carregada, a função `carregar()` é acionada. Esta funçã
 
 ## 🕹️ Demonstração (GitHub Pages)
 
-Você pode ver a página "Hora do Dia" em ação [clicando aqui](URL_DA_PAGINA_AQUI).
+Você pode ver a página "Hora do Dia" em ação [clicando aqui](https://andreriffen.github.io/hora-do-dia/).
 
 ## 💬 Observações
 
